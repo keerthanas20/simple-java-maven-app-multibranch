@@ -53,6 +53,7 @@
             <id>enforce-maven</id>
             <goals>
               <goal>enforce</goal>
+              
             </goals>
             <configuration>
               <rules>
